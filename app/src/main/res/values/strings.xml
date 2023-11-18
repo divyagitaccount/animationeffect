@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">animation effect</string>
+    <string name="surprise">surprise</string>
+    <string name="click_the_button_to_view_the_surprise">click the button to view the surprise</string>
+    <string name="surprise1">surprise</string>
+    <string name="click_the_button_for_a_surprise">click the button for a surprise</string>
+</resources>
